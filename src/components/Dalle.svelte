@@ -1,0 +1,1 @@
+<!--creacion de la imagen en base a texto-->
